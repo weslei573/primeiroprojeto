@@ -1,5 +1,5 @@
 ![imagem21](https://github.com/user-attachments/assets/16d78316-d408-4697-921f-977dbca443a9)
-
+```
 switch (expressão) {
    case valor1:
       // código a ser executado se a expressão for igual a valor1
@@ -15,3 +15,4 @@ switch (expressão) {
       // código a ser executado se a expressão não for igual a nenhum valor
       break;
 }
+```
