@@ -26,3 +26,7 @@ Os operadores relacionais são usados para comparar valores. Eles retornam um va
 "  < " (menor que)
 " <= " (menor ou igual a)
 ```
+## Tipos primitivos
+Java possui oito tipos primitivos diferentes: boolean, byte, char, short, int, long, float e double. Cada um desses tipos possui suas próprias características e faixa de valores permitidos, conforme será descrito a seguir.
+![imagem21](https://hermes.dio.me/articles/cover/9d24e608-c930-4770-8518-7c2aace1a640.png)
+REFERENCIA DA IMAGEM: https://hermes.dio.me/articles/cover/9d24e608-c930-4770-8518-7c2aace1a640.png
