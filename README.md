@@ -16,3 +16,13 @@ switch (expressão) {
       break;
 }
 ```
+# Operadores relacionais:
+Os operadores relacionais são usados para comparar valores. Eles retornam um valor booleano (verdadeiro ou falso). Trabalharemos melhor com eles quando estivermos na aula de condicionais, onde vamos modificar o fluxo da aplicação dada alguma condição. São eles:
+```
+" == " (igual a)
+" != " (diferente de)
+"  > " (maior que)
+" >= " (maior ou igual a)
+"  < " (menor que)
+" <= " (menor ou igual a)
+```
